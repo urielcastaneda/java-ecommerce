@@ -1,0 +1,3 @@
+# java-ecommerce
+este es un proyecto ejemplo de ecommerce    spring boot  maven mvc
+----   aquí pueden agregarse más especificaciones   de la primera versión....
